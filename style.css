@@ -51,6 +51,8 @@ background-repeat: no-repeat;
 }
 .exper{
     display: flex;
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
 }
 .foter-text{
     background-position: bottom;
