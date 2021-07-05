@@ -1,0 +1,7 @@
+section{
+    display: flex;
+}
+.half-div{
+    width: 50%;
+    padding: 30px;
+}
